@@ -7,7 +7,7 @@ Install
 =======
 
 #### 1. [Install VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-a [Install VirtualBox Extension Pack](http://download.virtualbox.org/virtualbox/5.1.22/Oracle_VM_VirtualBox_Extension_Pack-5.1.22-115126.vbox-extpack)
+a [Install VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
 
 
 #### 2. [Install Vagrant](https://www.vagrantup.com/downloads.html)
@@ -28,7 +28,7 @@ vagrant plugin install vagrant-cachier
 #### 5. Clone the lemp-vm repository
 ```
 mkdir <directory> && cd "$_"
-git clone https://bitbucket.org/letsbuildafire/vagrant-lemp.git .
+git clone https:///github.com/letsbuildafire/vagrant-lemp.git .
 ```
 
 
